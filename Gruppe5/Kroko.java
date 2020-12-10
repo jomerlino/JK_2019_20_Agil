@@ -14,6 +14,6 @@ public class Kroko extends Actor
      */
     public void act() 
     {
-        // Ergänzen Sie Ihren Quelltext hier...
+        move(1);
     }    
 }
